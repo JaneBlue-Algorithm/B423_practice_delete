@@ -7,5 +7,8 @@ public class practice_github {
         //This is our first comment in this file.
 
         //This text is on Jane branch
+
+        int ageUser = 30;
+        //MAIN BRANCH
     }
 }
